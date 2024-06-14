@@ -36,3 +36,7 @@ This script is compatible with Unix/Linux environments and can be run using bash
 
 **Windows PowerShell**
 While this script is primarily designed for Unix/Linux environments, you can still run it on Windows PowerShell with some modifications. However, certain commands or syntax may need to be adjusted to be compatible with Windows PowerShell. It's recommended to test the script in a Windows environment and make necessary adjustments as needed.
+
+Feel free to update it accordingly.
+
+Happy Learning....
