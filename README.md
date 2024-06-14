@@ -13,20 +13,20 @@ vi)  Virtual Machine (VM)
 
 **Usage**
 1) Clone this repository to your local machine or download the script directly.
-git clone <repository_url>
+_git clone <repository_url>_
 
 2) Navigate to the appropriate folder containing the script.
-cd <folder_name>
+_cd <folder_name>_
 
 3) Open the script file (create_ubuntu_vm.sh) and modify the parameters as needed, such as the resource group name, VNet name, subnet details, VM image, admin username, and SSH keys.
 4) Save the changes to the script file.
 5) Ensure you have the Azure CLI installed on your machine. If not, follow the installation instructions here.
 6) Log in to your Azure account using the Azure CLI.
-az login
+_az login_
 
 8) Run the script using the Azure CLI.
-bash create_ubuntu_vm.sh
-
+_bash create_ubuntu_vm.sh
+_
 10) Follow the prompts and provide any required information during the script execution.
 11) Once the script completes successfully, your Azure Ubuntu VM will be created and ready to use.
 
